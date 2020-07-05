@@ -1,22 +1,22 @@
 # Site settings
-title: Klise Theme # site title
+title: Duty Calls # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+Trying to set things straight by changing one config at a time
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Your Name # author name
+  name: Dinesh Thangavel # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # social media username eg. github, twitter 
-  email: your-email@email.com # your contact adress
+   Inspired by the duty calls xkcd post, jsut trying to share my knowledge with the world
+  #username: username # social media username eg. github, twitter 
+  twitter_username: rtdinesh
+  github_username:  rathinasamyt
+  email: rtdinesh@protonmail.com # your contact adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
