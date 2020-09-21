@@ -5,14 +5,14 @@ description: >- # site description
 lang: en-US # default lang
 timezone: America/Los_Angeles # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+repo: https://github.com/rathinasamyt/dutycalls # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
   name: Dinesh Thangavel # author name
   bio: >- # tell to the world
-   Inspired by the duty calls xkcd post, jsut trying to share my knowledge with the world
+   Inspired by the duty calls xkcd post, just trying to share my knowledge with the world
   #username: username # social media username eg. github, twitter 
   twitter_username: rtdinesh
   github_username:  rathinasamyt
@@ -20,7 +20,7 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # Url settings
-url: "https://klise.now.sh"
+url: 
 baseurl:
 permalink: /:title/
 google_analytics:
