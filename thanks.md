@@ -6,12 +6,12 @@ excerpt: Thanks to open web, where i got most of my questions answered. Also Spe
 comments: false
 ---
 
-Thanks to open web, which answered most of my questions. Long live open internet! Special thanks to some of my friends for endless arguments which made me to evolve as a better human being everyday.  
+Thanks to open web, which answered most of my questions. Long live open internet! Special thanks to some of my friends for endless arguments which helps me to evolve as a better human being everyday.  
 
 <hr>
 
 Thanks to [xkcd](https://xkcd.com) for the non conventional wisdom and inspiration for the blog.
-
+s
 <a href="https://xkcd.com/386/">
     <img 
         src="/assets/img/duty_calls.png" 
